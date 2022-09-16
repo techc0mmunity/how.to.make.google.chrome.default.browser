@@ -1,6 +1,6 @@
 # how to make google chrome default browser
 
-[![how to make google chrome default browser](get-detail.png)](https://github.com/techc0mmunity/how.to.make.google.chrome.default.browser/)
+[![how to make google chrome default browser](get-detail.png)](https://icncomputer.com/how-to-make-google-chrome-default-browser/)
 
 Using the internet is something we often take for granted. We jump on any device, access a browser, and begin searching for answers to everything. The only problem is that there are multiple browsers to choose from. Of course, we don't just browse on one device anymore. One of the most frustrating parts of having multiple browsers is transferring all your bookmarks and favorites. It could be a real pain if your browsers aren't synced across devices.
 
